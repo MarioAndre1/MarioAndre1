@@ -1,12 +1,12 @@
-<h2 align="left">About Me</h2>
+<h2 align="left">🙋🏼‍♂️ About Me</h2>
 
 ###
 
-<p align="left">Sou um Desenvolvedor Jr. em constante aprendizado, possuo conhecimentos sólidos em JavaScript, Python, HTML, CSS e PHP. Atualmente trabalhando em projetos pessoais para aprimorar minhas habilidades em desenvolvimento web, automação e machine learning.</p>
+<p align="left">✏️ Sou um Desenvolvedor Jr. em constante aprendizado, possuo conhecimentos sólidos em JavaScript, Python, HTML, CSS e PHP. Atualmente trabalhando como Analista de Suporte Técnico e em projetos pessoais para aprimorar minhas habilidades em desenvolvimento web, automação e machine learning.</p>
 
 ###
 
-<h2 align="left">Techs</h2>
+<h2 align="left">💻 Techs</h2>
 
 ###
 
@@ -37,8 +37,8 @@
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=MarioAndre1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="190" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioAndre1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false&order=2" height="190" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=MarioAndre1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=gruvbox&locale=en&hide_border=false&order=1" height="195" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MarioAndre1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=12&theme=gruvbox&hide_border=false&order=2" height="195" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MarioAndre1&radius=16&theme=gruvbox&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -75,6 +75,6 @@
 
 ###
 
-<p align="center">"A honra é o escudo que protege a alma do guerreiro. É a bússola que guia seus passos e a espada que defende sua verdade."</p>
+<h4 align="center">💥"A honra é o escudo que protege a alma do guerreiro. É a bússola que guia seus passos e a espada que defende sua verdade."💥</h4>
 
 ###
